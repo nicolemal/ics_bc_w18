@@ -1,7 +1,10 @@
 1) What are three interesting facts about you?
-
+put "I play basketball, I went to boarding school for two years, I am from Miami.""
 
 2) What's your favorite song and movie?
-
+put "My favorite song is "I Did Something Bad" by Taylor Swift and my favorite movie
+is Get Out."
 
 3) Why do you want to learn how to program?
+put "I want to be able to use programming to design health devices. I also want to be
+prepared for CS61A."
