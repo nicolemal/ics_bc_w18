@@ -4,3 +4,6 @@
 
 
 ### Your Code Here ###
+puts "What is your favorite number?"
+favoritenumber = gets.chomp
+puts "Your favorite number is " + favoritenumber + "? Well I think that " + (favoritenumber.to_i + 1).to_s + " is a much better number."

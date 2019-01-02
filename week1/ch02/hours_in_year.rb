@@ -5,3 +5,6 @@
 
 
 ### Your Code Here ###
+daysinyear = 365.25
+hoursinyear = daysinyear * 24
+puts "There are " + hoursinyear.to_i.to_s + " hours in a year."

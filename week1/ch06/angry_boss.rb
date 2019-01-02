@@ -4,3 +4,8 @@
 
 
 ### Your Code Here ###
+demand = "What do you want with me now pipsqueak!"
+puts demand.upcase
+request = gets.chomp
+fire= "You\'re fired!"
+puts request.upcase + " " + fire.upcase

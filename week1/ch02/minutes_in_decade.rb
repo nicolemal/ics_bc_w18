@@ -3,3 +3,4 @@
 
 
 ### Your Code Here ###
+puts (10*365.25*24*60).to_s + " minutes in a decade."
